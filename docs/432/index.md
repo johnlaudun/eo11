@@ -35,7 +35,7 @@ In addition to reference works focused on the topic of American folklore, there 
 
 ## Course Requirements
 
-For matters of daily comportment and responsibility, please see [The Essentials](../essentials.md).
+For matters of daily comportment and responsibility, please see [The Essentials](../guides/essentials.md).
 
 ### Assignments
 

@@ -1,6 +1,6 @@
 # Course Agenda
 
-*Please note that, in most cases, the direct link to an article or other kind of resource is posted in this course. In a number of instances, the direct link is to JSTOR, since that is where a number of folklore studies journals are archived. Please see the note on ["Accessing Materials"](../pages/access.md) for more information on successfully accessing databases and data repositories.*
+*Please note that, in most cases, the direct link to an article or other kind of resource is posted in this course. In a number of instances, the direct link is to JSTOR, since that is where a number of folklore studies journals are archived. Please see the note on ["Accessing Materials"](../guides/access.md) for more information on successfully accessing databases and data repositories.*
 
 
 
@@ -34,7 +34,7 @@ As [Wikipedia](https://en.wikipedia.org/wiki/The_Day_the_Universe_Changed) notes
 
 Bascom, William. 1965. The Forms of Folklore: Prose Narratives. _Journal of American Folklore_ 78: 3-20. [JSTOR](http://jstor.org/stable/538099)
 
-Burke, Kenneth. 1973/1941. The Philosophy of Literary Form. Berkeley and Los Angeles: University of California Press. Pp. 293-304. [PDF](../pdf/Burke_1941.pdf)
+Burke, Kenneth. 1973/1941. The Philosophy of Literary Form. Berkeley and Los Angeles: University of California Press. Pp. 293-304. [PDF](../texts/Burke_1941.pdf)
 
 *For more on possible ways to consider the inter-relationships of the forms of folklore see also*: Littleton, C. Scott. 1965. A Two-Dimensional Scheme for the Classification of Narratives. _Journal of American Folklore_ 78(307): 21-27. DOI: 10.2307/538100. [JSTOR](http://www.jstor.org/stable/538100).
 
@@ -77,7 +77,7 @@ Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch. 1992. “A Theory of Fad
 
 ### Fake News
 
-Temming, Maria. 2018. People are bad at spotting fake news. Can computer programs do better? _Science News_ (July 26). [URL](https://www.sciencenews.org/article/can-computer-programs-flag-fake-news). 
+Temming, Maria. 2018. People are bad at spotting fake news. Can computer programs do better? _Science News_ (July 26). [URL](https://www.sciencenews.org/article/can-computer-programs-flag-fake-news).
 
 
 

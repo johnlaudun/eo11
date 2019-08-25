@@ -10,7 +10,7 @@ nav:
         - 432: 432/index.md
         - 531: 531/index.md
         - 632: 632/index.md
-        - DH: dh/index.md
+        # - DH: dh/index.md
     - Guides:
         - Accessing databases: guides/access.md
         - Chicago Author-Date Citations: guides/cad.md

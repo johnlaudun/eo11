@@ -38,4 +38,4 @@ There are some things all students in my courses need, or want, to know:
 
 [^1]: Not everything is on this website yet: migrations are slow processes, if only to simplify maintenance of materials. Fellow faculty should feel free to adapt / adopt any of the materials included here. No attribution is required -- but it would be great to get a note from you -- it will make my dean happy, and we all know how important it is to make administrators happy.
 
-More [about me](pages/about.md).
+More [about me](about.md).

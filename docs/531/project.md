@@ -1,6 +1,6 @@
 # The Shape of Stories
 
-_Return to [syllabus](readme.md)._
+_Return to [syllabus](index.md)._
 
 ## Course Project/Essay
 
