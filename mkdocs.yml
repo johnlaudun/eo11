@@ -1,0 +1,18 @@
+site_name: John Laudun
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Courses:
+        - 115: 115/index.md
+        - 332: 332/index.md
+        - 335: 335/index.md
+        - 432: 432/index.md
+        - 531: 531/index.md
+        - 632: 632/index.md
+        - DH: dh/index.md
+    - Guides:
+        - Accessing databases: guides/access.md
+        - Chicago Author-Date Citations: guides/cad.md
+        - Essentuals: guides/essentials.md
+        - Interview Tips: guides/interview_tips.md
